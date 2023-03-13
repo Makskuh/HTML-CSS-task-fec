@@ -7,7 +7,7 @@ body {
   margin: 0;
 }
 .header {
-  background-image: url(/assets/img/beach.jpg);
+  background-image: url(../img/beach.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
